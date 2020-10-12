@@ -1,0 +1,43 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="BraceOrQuoteOut" />
+  <action id="EditorChooseLookupItemReplace" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="EditorIndentSelection" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorTab" />
+  <action id="ExpandLiveTemplateByTab" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="GotoClass">
+    <keyboard-shortcut first-keystroke="meta o" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="NavBar-selectEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="NextEditorTab" />
+  <action id="NextParameter" />
+  <action id="NextTab" />
+  <action id="NextTemplateParameter" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
+  <action id="PreviousTab" />
+  <action id="SearchEverywhere.CompleteCommand" />
+  <action id="SearchEverywhere.NextTab" />
+  <action id="SelectVirtualTemplateElement" />
+</keymap>

@@ -1,0 +1,17 @@
+<keymap version="1" name="macOS copy 1" parent="Mac OS X 10.5+">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta slash" />
+    <keyboard-shortcut first-keystroke="meta divide" />
+    <keyboard-shortcut first-keystroke="meta alt colon" />
+  </action>
+  <action id="OptimizeImports">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="ReformatCode" />
+  <action id="ResizeToolWindowDown" />
+  <action id="ResizeToolWindowUp" />
+  <action id="TsLintFileFixAction">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage" />
+</keymap>
