@@ -7,14 +7,12 @@
   <action id="OptimizeImports">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
-  <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="shift alt l" />
-  </action>
+  <action id="ReformatCode" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
   <action id="ShowReformatFileDialog" />
   <action id="TsLintFileFixAction">
-    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="Vcs.ReformatCommitMessage" />
 </keymap>
